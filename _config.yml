@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Random Walks
 tagline:          ''
 description:      'Calls from my cozy markov blanket'
-url:              https://akeshava.gitlab.io
+url:              https://ashimakeshava.github.io
 baseurl:          '/home'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
