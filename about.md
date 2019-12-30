@@ -3,8 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-<!--
-<img align="left" src="./assets/public_images/me.jpg" width="150" alt="placeholder" style="padding:10px"/> -->
+<br/>
 ![me](./assets/public_images/me.jpg)
 Welcome to my personal website!
 
