@@ -17,7 +17,7 @@ baseurl:          '/home'
 author:           AKeshava
 name:             'Ashima Keshava'
 url:              https://twitter.com/ashimakeshava
-
+remote_theme:     fongandrew/hydeout
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
