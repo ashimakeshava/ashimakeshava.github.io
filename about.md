@@ -6,7 +6,9 @@ sidebar_link: true
 
 <!-- My picture -->
 
-<div style="float: right">![](./favicon.png =250x)</div>
+<div style="float: right">
+![me](./assets/public_images/favicon.png)
+</div>
 I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am interested in studying human oculo-motor behavior in naturalistic environments.
 
 
