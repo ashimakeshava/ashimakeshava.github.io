@@ -1,6 +1,8 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme:     fongandrew/hydeout
+
 
 # Setup
 title:            Random Walks
@@ -17,7 +19,6 @@ baseurl:          '/home'
 author:           AKeshava
 name:             'Ashima Keshava'
 url:              https://twitter.com/ashimakeshava
-remote_theme:     fongandrew/hydeout
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
@@ -29,7 +30,7 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-disqus.shortname: akeshava
+# disqus.shortname: akeshava
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
