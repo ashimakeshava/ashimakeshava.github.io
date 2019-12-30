@@ -35,10 +35,13 @@ body {
   min-height: 100vh;
 }
 img[alt=me] {
-  width: 150px;
+  width: 50%;
   border: none;
   background: none;
-  padding:10px
+  margin-left: 10px
+  margin-bottom: 5px
+  margin-top: 5px
+
   float:left;
 }
 #sidebar {
