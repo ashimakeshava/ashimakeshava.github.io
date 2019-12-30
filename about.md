@@ -6,7 +6,9 @@ sidebar_link: true
 
 <!-- My picture -->
 
-I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am interested in studying human behavior in naturalistic environments. I am curious and random so pretty much everything piques my interests.
+<div style="float: right">![placeholder](favicon.png)</div>
+I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am interested in studying human oculo-motor behavior in naturalistic environments.
+
 
 
 ### Attributions:

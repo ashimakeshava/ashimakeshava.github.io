@@ -16,10 +16,11 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:           AKeshava
+author:
+    twitter: ashimakeshava
 name:             'Ashima Keshava'
-url:              https://twitter.com/ashimakeshava
-paginate:         5
+# url:              https://twitter.com/ashimakeshava
+paginate:         4
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
