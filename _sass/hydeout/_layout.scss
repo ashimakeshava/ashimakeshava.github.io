@@ -34,7 +34,13 @@ body {
   min-width: 100vw;
   min-height: 100vh;
 }
-
+img[alt=me] {
+  width: 150px;
+  border: none;
+  background: none;
+  padding:10px
+  float:left;
+}
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
