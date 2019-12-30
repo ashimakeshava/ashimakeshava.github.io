@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-<img align="left" src="./assets/public_images/me.jpg" width="100" alt="placeholder" style="margin:5px 10px">
+<img align="left" src="./assets/public_images/me.jpg" width="100" alt="placeholder" style="margin:5px 10px"/>
 
 Welcome to my personal website!
 
