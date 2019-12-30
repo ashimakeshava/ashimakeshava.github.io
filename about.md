@@ -3,9 +3,8 @@ layout: page
 title: About
 sidebar_link: true
 ---
-<br/><br/>
 
-<img align="left" src="./assets/public_images/favicon.png" width="200" alt="placeholder">
+<img align="right" src="./assets/public_images/me.jpg" width="100" alt="placeholder">
 
 I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am interested in studying human oculo-motor behavior in naturalistic environments. I work with mobile eye-trackers in virtual reality.
 
