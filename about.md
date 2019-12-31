@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 <br/>
-![me](./assets/public_images/me.jpg)
+![me](./assets/public_images/me.jpg#me)
 Welcome to my personal website!
 
 I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am interested in studying human behavior in naturalistic environments. I work with mobile eye-trackers in virtual reality.

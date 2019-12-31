@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+tags: Jekyll
+comments: true
 excerpt_separator:  <!--more-->
 ---
 Merry Christmas!
