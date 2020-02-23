@@ -4,7 +4,9 @@ title: About
 sidebar_link: true
 ---
 <br/>
-![me](./assets/public_images/me.jpg#me)
+<!-- ![me](./assets/public_images/me.jpg#me)
+ -->
+<img src="./assets/public_images/me.jpg" width="270" style="padding:2px; float: right; margin-left:20px; margin-bottom:20px;"/>
 Welcome to my personal website!
 
 I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) at [The Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). I am currently funded by the [German Ministry of Education & Research](https://www.bmbf.de/en/index.html) for the project [ErgoVR](https://www.technik-zum-menschen-bringen.de/projekte/ergovr) in collaboration with [SALT AND PEPPER Software GmbH & Co. KG.](https://www.embodied.engineering/ergovr) and [Fraunhofer Institute for Digital Media Technology](https://www.idmt.fraunhofer.de/en.html). I am also an Associated Researcher with the [Computational Cognition](http://computational-cognition.eu/) Research Training Group where I also serve as the Equal Opportunity Representative.
