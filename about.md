@@ -28,5 +28,4 @@ You can find my publications [here](https://scholar.google.com/citations?user=YG
 ##### Attributions:
 - Blog theme called <a href="https://github.com/fongandrew/hydeout">Hydeout by Andrew Fong</a>
 - Icons by <a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan">Darius Dan</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-- Icons made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 - Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
