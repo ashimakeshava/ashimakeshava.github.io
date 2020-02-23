@@ -21,6 +21,7 @@ author:
 name:             'Ashima Keshava'
 # url:              https://twitter.com/ashimakeshava
 paginate:         4
+google_analytics: "UA-158891287-1"
 # paginate_path:    '/home/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
