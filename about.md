@@ -11,7 +11,7 @@ I am pursuing a PhD in Cognitive Science at the [NeuroBioPsychology Lab](https:/
 
 I am interested in studying goal-oriented human oculomotor behavior in naturalistic environments. I work with fully mobile experimental setups in virtual reality. Broadly, I am interested in Enactive and Embodied accounts of Cognition and how our environment _affords_ the possibility of (inter)action within it.
 
-Besides my research, I also supervise BSc and MSc thesis projects and successfully taught a course on basics of data analysis in SS2019. I am a strong proponent of _Learning-by-doing_ and try to use similar principles for teaching and supervision.
+Besides my research, I also supervise BSc and MSc thesis projects. I taught a course on analysis and visualization of eye-tracking and EEG data in SS2019. I am a strong proponent of _Learning-by-doing_ and try to use similar principles for teaching and supervision.
 
 You can find my publications [here](https://scholar.google.com/citations?user=YGO0ev0AAAAJ&hl=en)
 
