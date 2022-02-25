@@ -3,10 +3,6 @@
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
         href="{{ "/" | relative_url }}">Home</a>
   {% endif %}
-  {% if site.sidebar_blog_link %}
-    <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
-	href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
-  {% endif %}
 
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
@@ -14,7 +10,13 @@
   {% endcomment %}
 
   {% include page-links.html %}
+
   {% include category-links.html %}
 
+  {% if site.sidebar_blog_link %}
+    <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
+  href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
+  {% endif %}
+  
   {% include custom-nav-links.html %}
 </nav>

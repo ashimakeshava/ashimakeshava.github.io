@@ -3,4 +3,48 @@
 # only main files contain this front matter, not partials.
 ---
 
+// $sidebar-bg-color: #710917;
+// $sidebar-fg-color: black;
+//
+// $large-breakpoint: 40rem !default;
+$large-font-size: 1.1rem;
+
+$link-color: #4B756B;
+// #CC3A4B;
+
+$sidebar-width: 18rem;
+$sidebar-bg-color: #49AB98;
+// #2c2b28;
+// #85ccd3;
+// #74c3b1;
+// #E85B2C;
+// #4F0923;
+// $link-color: #E88E9C;
+
 @import "hydeout";
+.idx_img {
+ height: 100%;
+ justify-content: center;
+ background: url("/assets/public_images/thesis_cover.png") no-repeat;
+ background-size: contain;
+
+}
+.content {
+  position: relative;
+  height: 20px;
+}
+.footer_text{
+  font-size: 10px;
+  bottom: 0;
+  left: 0;
+}
+
+// .me {
+//   .my-img: {
+//     height: 100%;
+//     width: auto;
+//     // object-fit: contain;
+//     padding: 0;
+//     margin: 0;
+//   }
+// }

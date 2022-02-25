@@ -5,36 +5,38 @@ remote_theme:     fongandrew/hydeout
 
 
 # Setup
-title:            Random Walks
+title:            Ashima Keshava
 tagline:          ''
-description:      'Calls from my cozy markov blanket'
+description:      ''
 url:              https://ashimakeshava.github.io
-baseurl:          ''
+baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
+                  # Calls from my cozy markov blanket
 
 author:
-    twitter: ashimakeshava
+twitter: ashimakeshava
 name:             'Ashima Keshava'
 # url:              https://twitter.com/ashimakeshava
-paginate:         4
+paginate:         3
 google_analytics: "UA-158891287-1"
-# paginate_path:    '/home/page:num'
+paginate_path:    '/blog/page:num/'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jemoji
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 disqus:
   shortname: ashimakeshava-github-io
-# sidebar_blog_link:  '/home'   # By default, your home page is your blog
+sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
