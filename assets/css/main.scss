@@ -3,23 +3,25 @@
 # only main files contain this front matter, not partials.
 ---
 
-// $sidebar-bg-color: #710917;
-// $sidebar-fg-color: black;
+$sidebar-bg-color: #49AB98;
+$sidebar-fg-color: #2c2b28;
 //
 // $large-breakpoint: 40rem !default;
 $large-font-size: 1.1rem;
 
 $link-color: #4B756B;
-// #CC3A4B;
 
-$sidebar-width: 18rem;
-$sidebar-bg-color: #49AB98;
+
+$sidebar-width: 20rem;
+// color options:
+// #4F0923;
 // #2c2b28;
 // #85ccd3;
 // #74c3b1;
 // #E85B2C;
 // #4F0923;
-// $link-color: #E88E9C;
+// #E88E9C;
+// #CC3A4B;
 
 @import "hydeout";
 .idx_img {
@@ -31,7 +33,7 @@ $sidebar-bg-color: #49AB98;
 }
 .content {
   position: relative;
-  height: 20px;
+  max-height: 10px;
 }
 .footer_text{
   font-size: 10px;
