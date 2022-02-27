@@ -31,6 +31,18 @@ $sidebar-width: 20rem;
  background-size: contain;
 
 }
+.about_text{
+  float: left;
+  overflow: auto;
+}
+.about_img{
+  padding:2px;
+  float: right;
+  margin-left:30px;
+  margin-bottom:10px;
+  overflow: auto;
+}
+
 .content {
   position: relative;
   max-height: 10px;
