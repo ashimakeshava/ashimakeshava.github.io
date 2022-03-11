@@ -2,12 +2,19 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
+$gray-1: #f9f9f9 !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #767676 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
 
 $sidebar-bg-color: #49AB98;
 $sidebar-fg-color: #2c2b28;
 //
 // $large-breakpoint: 40rem !default;
-$large-font-size: 1.1rem;
+$large-font-size: 1.25rem;
+// $root-font-size: 0.5rem;
 
 $link-color: #4B756B;
 
@@ -45,6 +52,7 @@ $sidebar-width: 20rem;
 
 .content {
   position: relative;
+  font-size:0.8rem
   // height: 10px;
 }
 .footer_text{
