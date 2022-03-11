@@ -30,7 +30,7 @@ Here, we used simple gaze features such as proportion of fixations on regions of
 <img src="../assets/public_images/GTI.png" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
 Here we investigated active inference processes revealed by eye movements during interaction with familiar and novel tools with two levels of realism of the action affordance. We presented participants with 3D tool models that were either familiar or unfamiliar, oriented congruent or incongruent to their handedness, and asked participants to interact with them by lifting or using. Importantly, we used the same experimental design in two setups. In the first experiment, participants interacted with a VR controller; in the second, they performed the task with an interaction setup that allowed differentiated hand and finger movements. We investigated the differences in odds of fixations and their eccentricity towards the tool parts before action initiation.
 <br/>
-<a class="tag" href="https://www.biorxiv.org/content/10.1101/2021.07.27.454022v2" target="_blank" >  biorxiv  </a> &nbsp;
+<a class="tag" href="https://www.biorxiv.org/content/10.1101/2021.07.27.454022v2" target="_blank" >  biorxiv  </a> 
 <a class="tag" href="https://github.com/ashimakeshava/gaze_tool_interaction" target="_blank" >  Code  </a>
 <br/>
 <br/>
