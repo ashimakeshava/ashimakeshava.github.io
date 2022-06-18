@@ -67,7 +67,7 @@ Here, we use Generalized Eigen Decomposition to find the neural sources that are
 ### How do humans perceive autonomous driving vehicles?
 <img src="../assets/public_images/westdrive.png" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
 <br/>
-<a class="tag" href="https://psyarxiv.com/bsjy6/">  psyarxiv  </a>
+<a class="tag" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9781604">  Paper  </a>
 
 <br/>
 <br/>
