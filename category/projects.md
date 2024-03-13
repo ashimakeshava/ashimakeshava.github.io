@@ -75,8 +75,8 @@ Here, we use Generalized Eigen Decomposition to find the neural sources that are
 ### How does embodied spatial exploration affect navigation abilities?
 <img src="../assets/public_images/seahaven.jpeg" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
 <br/>
-<a class="tag" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9781604">  Paper  </a>
-
+<a class="tag" href="https://www.frontiersin.org/articles/10.3389/frvir.2021.625548/full">  Paper  </a>
+<a class="tag" href="https://github.com/ashimakeshava/Seahaven_VR_Map_comparison" target="_blank">  Code  </a>
 <br/>
 <br/>
 
