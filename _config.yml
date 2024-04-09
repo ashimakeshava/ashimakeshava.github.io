@@ -22,7 +22,7 @@ twitter: ashimakeshava
 name:             'Ashima Keshava'
 # url:              https://twitter.com/ashimakeshava
 paginate:         3
-google_analytics: "UA-158891287-1"
+google_analytics: "G-94NHL3WKD1"
 paginate_path:    '/blog/page:num/'
                     # Or '/blog/page:num' if you want to move your index pages
 
