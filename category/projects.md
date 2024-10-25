@@ -8,10 +8,10 @@ title: Projects
 ### How does gaze support a sequence of actions?
 
 <img src="../assets/public_images/ergovr.png" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
- Eye movements in the natural environment have primarily been studied for over-learned and habitual everyday activities (tea-making, sandwich-making, hand-washing) which have a fixed sequence of actions associated with them. These studies typically categorize eye movements related to low level action plans of locating the object of interest, directing the body or hand to the object, and monitoring the action execution. In this study, we were interested in generalizing these task-oriented eye movements for novel tasks that are not associated with an inherent action sequence. To that end, we asked subjects to sort objects based on object features on a life-size shelf in a virtual environment as we recorded their eye and body movements.
+ Eye movements in the natural environment have primarily been studied for over-learned and habitual everyday activities (tea-making, sandwich-making, hand-washing) with a fixed sequence of associated actions. In this study, we were interested in how humans plan and execute actions for tasks that do not have an inherent action sequence. To that end, we asked subjects to sort objects based on object features on a life-size shelf in a virtual environment as we recorded their eye and body movements. We investigated the general characteristics of gaze behavior while acting under natural conditions. We provide a data-driven method of analyzing the different action-oriented functions of gaze. The results show that bereft of a predefined action sequence, humans prefer to plan only their immediate actions, where eye movements are used to search for the target object to immediately act on, then to guide the hand towards it and monitor the action until it is terminated. Such a simplistic approach ensures that humans choose sub-optimal behavior over planning under sustained cognitive load.
  <br/>
-<a class="tag" href="https://www.biorxiv.org/content/10.1101/2021.01.29.428782v3" target="_blank">  Preprint  </a>
-<a class="tag" href="https://github.com/ashimakeshava/ergovr_gaze_guidance" target="_blank">  Code  </a>
+<a class="tag" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529" target="_blank">  Paper  </a>
+<a class="tag" href="https://osf.io/gq6aj/" target="_blank">  Code  </a>
  <br/>
  <br/>
 
@@ -53,6 +53,16 @@ Here, we use Generalized Eigen Decomposition to find the neural sources that are
 <br/>
 
 # Collab projects
+
+### What are the neural signatures of face perception at fixation onset?
+
+<img src="../assets/public_images/hri.jpeg" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
+<br/>
+<a class="tag" href="http://dx.doi.org/10.3389/fnbot.2021.686010" target="_blank">  Paper  </a>
+<a class="tag" href="https://osf.io/s6zbm/" target="_blank">  Code  </a>
+<br/>
+<br/>
+
 
 
 ### Is human-human collaboration different from human-robot collaboration?
