@@ -56,7 +56,7 @@ Here, we use Generalized Eigen Decomposition to find the neural sources that are
 
 ### Combining EEG and eye-tracking in VR.
 
-<img src="../assets/public_images/eet_et.png" width="50%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
+<img src="../assets/public_images/eeg_et.jpg" width="100%" style="padding:2px; float: right; margin-left:10px; margin-bottom:10px;"/>
 <br/>
 <a class="tag" href="https://link.springer.com/article/10.3758/s13414-024-02917-3" target="_blank">  Paper  </a>
 <br/>
