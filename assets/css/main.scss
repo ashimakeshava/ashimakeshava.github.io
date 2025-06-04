@@ -23,3 +23,30 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+a {
+  color: #49AB98;
+
+  &:hover,
+  &:focus {
+    color: darken(#49AB98, 1%);
+    text-decoration: underline;
+  }
+}
+
+a.button-link {
+  display: inline-block;
+  padding: 0.4em 0.8em;
+  background-color: #49AB98;
+  color: white;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+
+  &:hover,
+  &:focus {
+    background-color: darken(#49AB98, 1%);
+    text-decoration: none;
+  }
+}

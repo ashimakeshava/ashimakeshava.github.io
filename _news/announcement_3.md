@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-08-01 16:20:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New paper accepted in PLOS Comp Bio [Just-in-time: gaze guidance in natural  behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529)
