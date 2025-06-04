@@ -1,88 +1,25 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-$gray-1: #f9f9f9 !default;
-$gray-2: #e5e5e5 !default;
-$gray-3: #ccc !default;
-$gray-4: #767676 !default;
-$gray-5: #515151 !default;
-$gray-6: #313131 !default;
+@charset "utf-8";
 
-$sidebar-bg-color: #49AB98;
-$sidebar-fg-color: #2c2b28;
-//
-// $large-breakpoint: 40rem !default;
-$large-font-size: 1.25rem;
-// $root-font-size: 0.5rem;
+// Dimensions
+$max-content-width: {{ site.max_width }};
 
-$link-color: #4B756B;
-
-
-$sidebar-width: 20rem;
-// color options:
-// #4F0923;
-// #2c2b28;
-// #85ccd3;
-// #74c3b1;
-// #E85B2C;
-// #4F0923;
-// #E88E9C;
-// #CC3A4B;
-
-@import "hydeout";
-// .idx_img {
-//  height: 70%;
-//  justify-content: center;
-//  background: url("/assets/public_images/thesis_cover.png") no-repeat;
-//  background-size: contain;
-//
-// }
-.about_text{
-  float: left;
-  overflow: auto;
-}
-.about_img{
-  padding:2px;
-  float: right;
-  margin-left:30px;
-  margin-bottom:10px;
-  overflow: auto;
-}
-
-.content {
-  position: relative;
-  font-size:0.8rem
-  // height: 10px;
-}
-
-.tag{
-  align-items: center;
-    background-color: #e5e5e5;
-    border-radius: 4px;
-    // color: #4a4a4a;
-    display: inline-flex;
-    font-size: .75rem;
-    height: 2em;
-    justify-content: center;
-    line-height: 1.5;
-    padding-left: 0.75em;
-    padding-right: 0.75em;
-    white-space: nowrap;
-}
-
-.footer_text{
-  font-size: 10px;
-  bottom: 0;
-  left: 0;
-}
-
-// .me {
-//   .my-img: {
-//     height: 100%;
-//     width: auto;
-//     // object-fit: contain;
-//     padding: 0;
-//     margin: 0;
-//   }
-// }
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "tabs",
+  "typograms",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular",
+  "tabler-icons/tabler-icons.scss",
+  "tabler-icons/tabler-icons-filled.scss",
+  "tabler-icons/tabler-icons-outline.scss"
+;

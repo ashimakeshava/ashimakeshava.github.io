@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "b09c7d97d58b1c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2c7741dcc92c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ac7d4971aa2126",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e40a1127835ca72",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc32de97200e896a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ccaa517e306176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b4ae7bf6e1ec3fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:  Paper  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dfe02bcb644017e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49ad337c9808aab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e140d896d350a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c356d5e5f6fde4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f303ddceaf9400a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8f0d1b25c386d31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18ccaa517e306176",
+  "lastOpenFiles": [
+    "Untitled",
+    "category/projects.md",
+    "_site/assets/public_images/seahaven.jpeg",
+    "_site/assets/public_images/Resume_AshimaKeshava_UCL.pdf",
+    "assets/public_images/seahaven.jpeg",
+    "_images/2022-02-22/results_35.png",
+    "_images/2022-02-22/results_34.png",
+    "_images/2022-02-22/results_24.png",
+    "_images/2022-02-22/Methods_1.png",
+    "_posts/2025-02-22-project_vr_et-comp.md"
+  ]
+}
