@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper accepted in PLOS Comp Bio [Just-in-time: gaze guidance in natural  behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529)
+:rotating_light: New paper accepted in PLOS Comp Bio [Just-in-time: gaze guidance in natural  behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529)
