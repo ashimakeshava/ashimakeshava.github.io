@@ -23,4 +23,11 @@ images:
     	alt='B.Sc. Thesis of Ozge Ozenoglu (2022)'
     	style="width: 300px; height: auto;" />
   </a>
+  <a class="spotlight" 
+     href="/assets/img/static_drawing.jpg"
+     data-caption='Totem'>
+    <img src="/assets/img/static_drawing.jpg" 
+      alt='Totem'
+      style="width: 300px; height: auto;" />
+  </a>
 </div>
