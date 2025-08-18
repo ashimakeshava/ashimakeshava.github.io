@@ -27,7 +27,7 @@ images:
      href="/assets/img/static_drawing.jpg"
      data-caption='Totem'>
     <img src="/assets/img/static_drawing.jpg" 
-      alt='Totem'
+      alt='Totem. Code: https://github.com/ashimakeshava/who_am_i/ '
       style="width: 300px; height: auto;" />
   </a>
 </div>
