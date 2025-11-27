@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:white_check_mark: PhD - with the highest praise 
+✅ PhD – awarded with the highest praise
