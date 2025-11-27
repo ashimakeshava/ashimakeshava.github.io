@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PhD :white_check_mark: - with the highest praise 
+:white_check_mark: PhD - with the highest praise 
